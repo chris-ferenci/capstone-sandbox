@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Relief-Careers/static/css/main.72f53053.css",
+    "main.js": "/Relief-Careers/static/js/main.db14db77.js",
+    "static/media/landing-bg.jpg": "/Relief-Careers/static/media/landing-bg.f4c1f000100f07b42fe1.jpg",
+    "static/media/landing-bg-2.jpg": "/Relief-Careers/static/media/landing-bg-2.84290e2977a424f64cd3.jpg",
+    "index.html": "/Relief-Careers/index.html",
+    "main.72f53053.css.map": "/Relief-Careers/static/css/main.72f53053.css.map",
+    "main.db14db77.js.map": "/Relief-Careers/static/js/main.db14db77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72f53053.css",
+    "static/js/main.db14db77.js"
+  ]
+}

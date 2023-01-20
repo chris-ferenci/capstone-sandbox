@@ -1,0 +1,11 @@
+span.favorite {
+    color: #5F01F5;
+    font-weight: 600;
+    margin: 10px 10px 0px 0px;
+
+}
+
+svg.bi.bi-heart-fill {
+    margin-top: 20px;
+
+}

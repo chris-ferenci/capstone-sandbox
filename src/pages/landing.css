@@ -1,0 +1,64 @@
+.landing-container{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+
+}
+
+.landing-container h1{
+    margin: 0;
+    color: #2e2e2e;
+    font-size: 5rem;
+    letter-spacing: -.1rem;
+}
+
+.landing-container h4{
+    margin: 0;
+    font-size: 2.4rem;
+    letter-spacing: 0;
+    color: #4c4c4c;
+    margin-bottom: 3rem;
+}
+
+.landing-container p{
+    font-size: 1.4rem;
+ 
+}
+
+.hero-left{
+    width: 50%;
+}
+
+.hero-right{
+    width: 50%;
+    background-color: blue;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.vertical-half{
+    height:50%;
+}
+
+.hero-inner{
+    padding: 5rem;
+
+}
+
+.landing-img{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.description{
+    width: 75%;
+}
+
+.btn-large {
+    padding: 1.5rem 2rem 1.5rem 2rem;
+    font-size: 1.1rem;
+    display: inline-flex;
+    
+}

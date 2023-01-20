@@ -1,0 +1,21 @@
+.title-card{
+    padding: 1rem 1.8rem 0 2rem;
+    font-size: 1.3rem;
+    background: rgb(175,125,255);
+    background: linear-gradient(-30deg, rgba(175,125,255,1) 0%, rgba(95,1,245,1) 50%);
+    color: #fff;
+    border-radius: 1rem;
+}
+
+
+
+#job-board-container{
+    display: grid;
+    grid-area: job-board;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr; 
+    column-gap:24px;
+    row-gap:24px;
+    background-color:#fff;
+    padding: 2rem;
+}
