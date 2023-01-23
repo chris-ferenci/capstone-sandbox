@@ -1,8 +1,8 @@
 .title-card{
     padding: 1rem 1.8rem 0 2rem;
     font-size: 1.3rem;
-    background: rgb(175,125,255);
-    background: linear-gradient(-30deg, rgba(175,125,255,1) 0%, rgba(95,1,245,1) 50%);
+    background: #0e7071;
+    background: #0e7071;
     color: #fff;
     border-radius: 1rem;
 }

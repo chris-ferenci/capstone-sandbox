@@ -9,7 +9,7 @@ import { Icon } from "@blueprintjs/core";
 
 function Header(){
 
-    const [ activeCountry, setActiveCountry, activeExperience, setActiveExperience, jobs, setJobs, searchQuery, setSearchQuery ] = useContext(CountryContext)
+    const [ searchQuery, setSearchQuery ] = useContext(CountryContext)
 
     function filterJobs(input){ setSearchQuery(input) };
 
@@ -23,13 +23,14 @@ function Header(){
                         <FaLaptopMedical />
                     </IconContext.Provider>
                 </div>
-                <h1 className="brand-logo">Relief Careers</h1>
-                <p className="brand-tag">Find work to help those most in need</p>
+                <h1 className="brand-logo">Around Me</h1>
+                <p className="brand-tag">Insights About Your City</p>
             </div>
 
             <nav className="header-links-container">
                 <ul className="header-links">
                 <li><a href="/">Home</a></li>
+                <li><a href="/insights">Insights</a></li>
                 </ul>
             </nav>
             
